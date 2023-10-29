@@ -1,0 +1,9 @@
+.container {
+    max-width: 450px;
+    margin: 10% auto;
+    box-sizing: border-box;
+    background-color: purple;
+    border-radius: 5px;
+    padding: 30px;
+
+}
